@@ -6,4 +6,4 @@ You point it at the port 7443 endpoint of a Portal for ArcGIS machine, with a Po
 
 The outputs include a logical overview diagram, a services inventory (with workspaces and datasets), a Portal content inventory, lists of users and groups, information about TLS/SSL certificates, etc.
 
-You can download "a release" (https://github.com/dannykrouk/arcgisenterprisereporter/releases), which is a zip file (age_r_gui.zip) with the executables and documentation.  It is recommended that you download the most recent release.  
+You can download "a release" (https://github.com/dannykrouk/gisenterprisereporter/releases), which is a zip file (age_r_gui.zip) with the executables and documentation.  It is recommended that you download the most recent release.  
