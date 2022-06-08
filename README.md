@@ -1,4 +1,4 @@
-# arcgisenterprisereporter
+# gisenterprisereporter
 
 The purpose of the tool to document the configuration and administrative settings of an ArcGIS Enterprise deployment.
 
